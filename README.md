@@ -34,4 +34,19 @@ https://br.wordpress.org/download/
 
 
 
-elements
+https://www.cartoonnetwork.com.br/
+
+
+para incorporar um mapa, vai no google mapas, coloca a localização, e colocar como incorporar um mapa
+
+Instalar o pluguin elementor
+
+Instalar tema Hello Elementor
+
+Add página com Edit elementer
+
+Baixar o plugin https://proelements.org/
+
+instalar o plugin
+
+em tamplest em - THEME BUILDER para iniciar um cabeçalho
